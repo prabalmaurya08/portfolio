@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Quantum Cart",
+    "desc": "E-Commerce App using Firebase,Firestore,Firebase Authentication ,Java,Android Studio",
+    "image": "online",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/prabalmaurya08/e-commerce-App/releases/tag/app",
+      "code": "https://github.com/prabalmaurya08/e-commerce-App"
+    }
+  },
+  {
+    "name": "Chatting App",
+    "desc": "Build a Realtime Chat App Using Firebase,Database,Android Studio",
+    "image": "chat",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/prabalmaurya08/chat-app/releases/tag/chatApp",
+      "code": "https://github.com/prabalmaurya08/chat-app"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Native android app built using Java, XML and RestAPI(Weather API). Retrofit & Glide dependencies.Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/prabalmaurya08/Weather_App"
+    }
+  },
+  {
+    "name": "Quiz App",
+    "desc": "Native android app built using Java, XML. A basic Quiz App",
+    "image": "quiz",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/prabalmaurya08/Quiz-App"
+    }
+  },
+  {
+    "name": "Calculator App",
+    "desc": "A Native Android App for Basic Calculation using Java,XML ",
+    "image": "cal",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/prabalmaurya08/oibsip_taskno1"
+    }
+  }
+  
+]
